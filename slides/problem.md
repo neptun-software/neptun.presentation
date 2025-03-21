@@ -24,7 +24,7 @@ layout: two-cols
 ::right::
 
 # Problemstellung
-  
+
 - Überforderung durch so viele
   - Konfigurationsformate
   - Konfigurationsmöglichkeiten

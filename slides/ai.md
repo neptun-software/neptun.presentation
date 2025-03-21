@@ -1,16 +1,12 @@
 ---
-layout: default
+layout: two-cols-header
 ---
 
-# NeptunAI - Unser KI-Modell
+# NeptunAI
 
-## Basis
+::left::
 
-- RWKV-5-World-0.4B-v2-20231113-ctx4096
-- Optimiert für schwache Hardware
-- Kontext-Fenster von 4096 Tokens
-
-## Tuning mit unseren Datensätzen
+## Tuning
 
 - Über 200.000 Datensätze
 - Spezialisiert auf:
@@ -24,9 +20,10 @@ layout: default
 - Model: [neptun-org/neptun.ai](https://huggingface.co/neptun-org/neptun.ai)
 - Datensätze: [neptun-org/neptun.scraper](https://huggingface.co/datasets/neptun-org/neptun.scraper)
 
-<style>
-h2 {
-  margin-top: 2rem;
-  color: #60a5fa;
-}
-</style>
+::right::
+
+## Basis
+
+- RWKV-5-World-0.4B-v2-20231113-ctx4096
+- Optimiert für schwache Hardware
+- Kontext-Fenster von 4096 Tokens

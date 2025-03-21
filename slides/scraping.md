@@ -7,6 +7,7 @@ layout: two-cols-header
 ::left::
 
 - **Scrapy Scraper**
+
   - Webscraper für Docker & NPM
   - Basis für NeptunAI Trainingsdatensatz
 
@@ -17,6 +18,7 @@ layout: two-cols-header
 ::right::
 
 - **Daten Generatoren**
+
   - Verarbeitung der Scrapy-Daten mit ChatGPT
   - Generierung strukturierter Trainingsdaten
 

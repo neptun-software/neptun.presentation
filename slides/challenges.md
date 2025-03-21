@@ -5,6 +5,7 @@ layout: default
 # Technische Herausforderungen
 
 1. **Datensammlung für Fine-Tuning**
+
    - Entwicklung mehrerer Scraper & Fetcher
 
 2. **KI-Hosting**

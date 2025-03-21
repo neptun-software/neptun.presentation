@@ -1,20 +1,20 @@
 ---
 theme: seriph
-background: '#020817'
-class: 'text-center'
-transition: slide-left
+background: "#020817"
+class: "text-center"
+transition: slide-up
 highlighter: shiki
 lineNumbers: false
 fonts:
-  sans: 'Geist'
-  mono: 'Geist Mono'
+  sans: "Geist"
+  mono: "Geist Mono"
 info: |
   ## NeptunAI Präsentation 
   Automated Tech Stack Configuration powered by AI
 drawings:
   persist: false
 css: unocss
-favicon: 'https://raw.githubusercontent.com/neptun-software/neptun.tools.docs/refs/heads/main/static/img/favicon.png'
+favicon: "https://raw.githubusercontent.com/neptun-software/neptun.tools.docs/refs/heads/main/static/img/favicon.png"
 ---
 
 <style>
@@ -57,7 +57,7 @@ transition: slide-up
 
 ---
 src: ./slides/problem.md
-transition: slide-down
+transition: slide-left
 ---
 
 ---
@@ -66,18 +66,23 @@ transition: slide-left
 ---
 
 ---
-src: ./slides/stacked-images.md
-transition: slide-right
+src: ./slides/repositories.md
+transition: slide-left
 ---
 
 ---
 src: ./slides/features.md
-transition: slide-right
+transition: slide-left
 ---
 
 ---
 src: ./slides/api.md
-transition: slide-right
+transition: slide-left
+---
+
+---
+src: ./slides/schema.md
+transition: slide-left
 ---
 
 ---
@@ -102,10 +107,10 @@ transition: slide-up
 
 ---
 src: ./slides/demo.md
-transition: slide-up
+transition: slide-left
 ---
 
 ---
 src: ./slides/outro.md
-transition: slide-up
+transition: slide-left
 ---
