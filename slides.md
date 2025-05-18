@@ -121,31 +121,6 @@ transition: slide-left
 ---
 
 ---
-src: ./slides/stevan.md
-transition: slide-left
----
-
----
-src: ./slides/scraped-urls.md
-transition: slide-up
----
-
----
-src: ./slides/scraping.md
-transition: slide-up
----
-
----
-src: ./slides/ai.md
-transition: slide-up
----
-
----
-src: ./slides/challenges.md
-transition: slide-up
----
-
----
 src: ./slides/outro.md
 transition: slide-left
 ---
