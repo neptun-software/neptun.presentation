@@ -43,6 +43,3 @@ layout: two-cols
 <br>
 
 > Die Folge ist endloses Dokumentationslesen und Abwägen, welche Technologien am geschicktesten sein könnten.
-
-**Ziel**: Möglichst viel Zeit für das tatsächliche Projekt.  
-Die NeptunAI Platform liefert dabei eine Platform zur Erstellung, Verbesserung und zum Teilen erstellter Konfigurationen und Code-Snippets.

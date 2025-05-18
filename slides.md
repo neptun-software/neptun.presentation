@@ -61,7 +61,27 @@ transition: slide-left
 ---
 
 ---
+src: ./slides/goal.md
+transition: slide-left
+---
+
+---
 src: ./slides/technical.md
+transition: slide-left
+---
+
+---
+src: ./slides/technical-backend.md
+transition: slide-left
+---
+
+---
+src: ./slides/technical-scraper.md
+transition: slide-left
+---
+
+---
+src: ./slides/technical-ai.md
 transition: slide-left
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Technische Umsetzung
+# Technische Umsetzung: UI
 
 <style>
 .logo-container {
@@ -34,7 +34,7 @@ layout: default
     <div class="logo-container">
       <img src="https://raw.githubusercontent.com/neptun-software/neptun.tools.docs/refs/heads/main/static/img/logo-web-banner.png" class="w-48" />
     </div>
-    <h2 class="text-2xl font-bold mb-4">Webanwendung</h2>
+    <h2 class="text-2xl font-bold mb-4">Web-GUI</h2>
     <ul class="space-y-2">
       <li>Implementiert mit Nuxt 3, Nitro 2 und Vue 3</li>
       <li>Live auf neptunai.tech</li>
