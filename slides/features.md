@@ -16,5 +16,5 @@ layout: default
     - Vergleichen und
     - Teilen von Inhalten
 - Oauth, E-Mail/Passwort & Webauthn/Passkey Unterstützung
-- Docker Command zu Docker Compose Konverter
 - GitHub App für private Repository-Imports
+- Tools-Seite: Docker Command zu Docker Compose Konverter
