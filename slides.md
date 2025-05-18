@@ -116,7 +116,7 @@ transition: slide-left
 ---
 
 ---
-src: ./slides/challenges.md
+src: ./slides/scraped-urls.md
 transition: slide-up
 ---
 
@@ -126,12 +126,12 @@ transition: slide-up
 ---
 
 ---
-src: ./slides/scraped-urls.md
+src: ./slides/ai.md
 transition: slide-up
 ---
 
 ---
-src: ./slides/ai.md
+src: ./slides/challenges.md
 transition: slide-up
 ---
 
