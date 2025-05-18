@@ -106,6 +106,11 @@ transition: slide-left
 ---
 
 ---
+src: ./slides/schema-split.md
+transition: slide-left
+---
+
+---
 src: ./slides/api.md
 transition: slide-left
 ---
