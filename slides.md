@@ -86,6 +86,11 @@ transition: slide-left
 ---
 
 ---
+src: ./slides/technical-docs.md
+transition: slide-left
+---
+
+---
 src: ./slides/features.md
 transition: slide-left
 ---
@@ -118,11 +123,6 @@ transition: slide-up
 ---
 src: ./slides/ai.md
 transition: slide-up
----
-
----
-src: ./slides/demo.md
-transition: slide-left
 ---
 
 ---

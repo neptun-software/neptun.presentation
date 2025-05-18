@@ -36,8 +36,8 @@ layout: default
     </div>
     <h2 class="text-2xl font-bold mb-4">Dabei verwendete KIs zur Strukturierung der Daten</h2>
     <ul class="space-y-2">
-      <li>verschiedene ChatGPT Modelle</li>
-      <li>firecrawlAI API</li>
+      <li>verschiedene ChatGPT Modelle & firecrawlAI</li>
+      <li>Datensätze auf HuggingFace unter neptun-org/neptun.scraper verfügbar</li>
     </ul>
   </div>
 </div>
