@@ -66,7 +66,7 @@ transition: slide-left
 ---
 
 ---
-src: ./slides/technical.md
+src: ./slides/technical-jonas.md
 transition: slide-left
 ---
 
