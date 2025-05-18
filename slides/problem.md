@@ -25,15 +25,24 @@ layout: two-cols
 
 # Problemstellung
 
-- Überforderung durch so viele
-  - Konfigurationsformate
-  - Konfigurationsmöglichkeiten
-  - Programmiersprachen
-  - Libraries
-  - Frameworks
+- Konfigurationsformate (JSON, YAML, TOML, XML, ini, env, properties...)
+<!-- - Konfigurationsumgebungen (dev, staging, prod) -->
+<!-- - Konfigurationsmöglichkeiten (als Argumente, in Dateien, in einer dedizierten Datenbank) -->
+<!-- - Programmiersprachen (JavaScript, Java, Python...) -->
+- Libraries (Vue.js, React, Templ, Iconify, PostCSS...)
+- Frameworks (Astro, Nuxt...)
+<!-- - Package Registries (NPM, JSR...) -->
+<!-- - Package Managers (NPM, Deno, Bun) -->
+<!-- - Linter (BiomeJS, EsLint) -->
+<!-- - Compiler und Build-Tools (Svelte, Vite) -->
+<!-- - OCRMs (Drizzle, Prisma) -->
+- Server/Engines (Nitro, Hono, Echo, Ktor)
+- Server/Proxies (Caddy, NGINIX)
+- etc.
 
 <br>
 
 > Die Folge ist endloses Dokumentationslesen und Abwägen, welche Technologien am geschicktesten sein könnten.
 
-Ziel: Die Zeit stattdessen für das Produkt verwenden.
+**Ziel**: Möglichst viel Zeit für das tatsächliche Projekt.  
+Die NeptunAI Platform liefert dabei eine Platform zur Erstellung, Verbesserung und zum Teilen erstellter Konfigurationen und Code-Snippets.
