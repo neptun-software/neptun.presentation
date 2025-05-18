@@ -91,6 +91,11 @@ transition: slide-left
 ---
 
 ---
+src: ./slides/jonas.md
+transition: slide-left
+---
+
+---
 src: ./slides/features.md
 transition: slide-left
 ---
@@ -102,6 +107,11 @@ transition: slide-left
 
 ---
 src: ./slides/schema.md
+transition: slide-left
+---
+
+---
+src: ./slides/stevan.md
 transition: slide-left
 ---
 
