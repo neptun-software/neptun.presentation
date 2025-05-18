@@ -6,6 +6,12 @@ backgroundSize: contain
 
 ---
 layout: image
+image: sign-up.png
+backgroundSize: contain
+---
+
+---
+layout: image
 image: dashboard-chats.png
 backgroundSize: contain
 ---
@@ -43,11 +49,5 @@ backgroundSize: contain
 ---
 layout: image
 image: /public-templates.png
-backgroundSize: contain
----
-
----
-layout: image
-image: /tools.png
 backgroundSize: contain
 ---
