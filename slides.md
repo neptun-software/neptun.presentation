@@ -86,11 +86,6 @@ transition: slide-left
 ---
 
 ---
-src: ./slides/repositories.md
-transition: slide-left
----
-
----
 src: ./slides/features.md
 transition: slide-left
 ---
