@@ -12,6 +12,14 @@ layout: default
   - Shares,
   - Collections,
   - Projekte & deren Context sowie deren Verlinkungen,
-- GitHub Installationen,
+- GitHub Installationen (private und öffentliche Repositories),
 - GitHub Repository Konfigurationsdateien
-- Authentifizierung via Google & GitHub OAuth, Webauthn oder E-Mail und Passwort
+- Authentifizierung via Google & GitHub OAuth, Webauthn (Passkey) oder E-Mail und Passwort
+
+<!--
+- Möglichkeiten zum
+  - Erstellen,
+  - Verwalten,
+  - Vergleichen und
+  - Teilen von Inhalten
+-->

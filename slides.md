@@ -111,11 +111,6 @@ transition: slide-left
 ---
 
 ---
-src: ./slides/features.md
-transition: slide-left
----
-
----
 src: ./slides/neptunui-view.md
 transition: slide-left
 ---
